@@ -7,6 +7,7 @@ Three machine learning algorithms are compared: **Logistic Regression**, **Rando
 
 ## Dataset
 
+Dataset link: [Link](https://raw.githubusercontent.com/veekun/pokedex/master/pokedex/data/csv/pokemon.csv)
 The final dataset has the following columns:
 
 - `identifier`: Pokémon name (dropped before training)  
